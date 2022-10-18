@@ -15,7 +15,7 @@
 /*  Start Section Header  */
 
  header {
-    background-image:  url( ../images/back.jpg);
+    background-image:  url( ./back.jpg);
     background-size: cover;
     background-position: center top ;
     height: 100vh;
@@ -119,7 +119,7 @@ header .header-content p::after {
     content: "";
     width: 80%;
     height: 80%;
-    background-image: url(../images/dots.png);
+    background-image: url(./dots.png);
     background-repeat: repeat;
     position: absolute;
     left: -15px;
